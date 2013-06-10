@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-06-09T22:05:07-05:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[The Long Road]]></title>
+  <link href="http://blog.hectoregm.com/atom.xml" rel="self"/>
+  <link href="http://blog.hectoregm.com/"/>
+  <updated>2013-06-09T23:01:01-05:00</updated>
+  <id>http://blog.hectoregm.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Hector E. Gomez Morales]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
