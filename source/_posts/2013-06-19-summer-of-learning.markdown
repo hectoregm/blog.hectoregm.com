@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summer of Learning"
-date: 2013-06-1   23:00
+date: 2013-06-19   23:00
 comments: true
 categories: [Summer of Learning]
 ---

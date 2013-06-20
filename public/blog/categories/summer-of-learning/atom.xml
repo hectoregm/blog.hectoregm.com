@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Summer of Learning | The Long Road]]></title>
   <link href="http://blog.hectoregm.com/blog/categories/summer-of-learning/atom.xml" rel="self"/>
   <link href="http://blog.hectoregm.com/"/>
-  <updated>2013-06-19T23:02:39-05:00</updated>
+  <updated>2013-06-19T23:03:54-05:00</updated>
   <id>http://blog.hectoregm.com/</id>
   <author>
     <name><![CDATA[Hector E. Gomez Morales]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Summer of Learning]]></title>
-    <link href="http://blog.hectoregm.com/blog/2013/06/01/summer-of-learning/"/>
-    <updated>2013-06-01T23:00:00-05:00</updated>
-    <id>http://blog.hectoregm.com/blog/2013/06/01/summer-of-learning</id>
+    <link href="http://blog.hectoregm.com/blog/2013/06/19/summer-of-learning/"/>
+    <updated>2013-06-19T23:00:00-05:00</updated>
+    <id>http://blog.hectoregm.com/blog/2013/06/19/summer-of-learning</id>
     <content type="html"><![CDATA[<p>Several years ago I was part of Google Summer of Code for Mono, my
 project was building a WYSIWYG documentation editor for the .NET
 API. I learned a lot about GTK# and GUI development during that summer

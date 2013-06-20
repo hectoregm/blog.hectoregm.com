@@ -4,7 +4,7 @@
   <title><![CDATA[The Long Road]]></title>
   <link href="http://blog.hectoregm.com/atom.xml" rel="self"/>
   <link href="http://blog.hectoregm.com/"/>
-  <updated>2013-06-19T23:02:39-05:00</updated>
+  <updated>2013-06-19T23:03:54-05:00</updated>
   <id>http://blog.hectoregm.com/</id>
   <author>
     <name><![CDATA[Hector E. Gomez Morales]]></name>
@@ -14,39 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[New Beginning]]></title>
-    <link href="http://blog.hectoregm.com/blog/2013/06/09/new-beginning/"/>
-    <updated>2013-06-09T23:06:00-05:00</updated>
-    <id>http://blog.hectoregm.com/blog/2013/06/09/new-beginning</id>
-    <content type="html"><![CDATA[<p>I think having a blog is helpful is several ways:</p>
-
-<ul>
-<li>Forces you to wrap your head around the topics you want to write
-about.</li>
-<li>Helps you to measure your progress and what you still need to improve.</li>
-<li>English is not my native language so any opportunity to improve my
-writing skills is excellent.</li>
-</ul>
-
-
-<!-- more -->
-
-
-<p>Writing a blog is a hard job, but I have arrived to a stage in my
-life that I need a place where I can store that one-liner that makes
-wonders, reflections of the articles and books I am reading and
-tutorials of things that took a tooth and nail to get working.</p>
-
-<p>My posts will focus on Ruby, Rails, Objective-C, iOS, Rubymotion and
-Computer Science in general.</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Summer of Learning]]></title>
-    <link href="http://blog.hectoregm.com/blog/2013/06/01/summer-of-learning/"/>
-    <updated>2013-06-01T23:00:00-05:00</updated>
-    <id>http://blog.hectoregm.com/blog/2013/06/01/summer-of-learning</id>
+    <link href="http://blog.hectoregm.com/blog/2013/06/19/summer-of-learning/"/>
+    <updated>2013-06-19T23:00:00-05:00</updated>
+    <id>http://blog.hectoregm.com/blog/2013/06/19/summer-of-learning</id>
     <content type="html"><![CDATA[<p>Several years ago I was part of Google Summer of Code for Mono, my
 project was building a WYSIWYG documentation editor for the .NET
 API. I learned a lot about GTK# and GUI development during that summer
@@ -96,6 +67,35 @@ on my workflow through the day. So this summer I am learning iOS app
  development to build a great app that not only keeps tracks of the
  pomodoro you are working on but that I can provide insights
  to your work rhythm.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[New Beginning]]></title>
+    <link href="http://blog.hectoregm.com/blog/2013/06/09/new-beginning/"/>
+    <updated>2013-06-09T23:06:00-05:00</updated>
+    <id>http://blog.hectoregm.com/blog/2013/06/09/new-beginning</id>
+    <content type="html"><![CDATA[<p>I think having a blog is helpful is several ways:</p>
+
+<ul>
+<li>Forces you to wrap your head around the topics you want to write
+about.</li>
+<li>Helps you to measure your progress and what you still need to improve.</li>
+<li>English is not my native language so any opportunity to improve my
+writing skills is excellent.</li>
+</ul>
+
+
+<!-- more -->
+
+
+<p>Writing a blog is a hard job, but I have arrived to a stage in my
+life that I need a place where I can store that one-liner that makes
+wonders, reflections of the articles and books I am reading and
+tutorials of things that took a tooth and nail to get working.</p>
+
+<p>My posts will focus on Ruby, Rails, Objective-C, iOS, Rubymotion and
+Computer Science in general.</p>
 ]]></content>
   </entry>
   
