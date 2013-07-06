@@ -4,7 +4,7 @@
   <title><![CDATA[The Long Road]]></title>
   <link href="http://blog.hectoregm.com/atom.xml" rel="self"/>
   <link href="http://blog.hectoregm.com/"/>
-  <updated>2013-06-19T23:03:54-05:00</updated>
+  <updated>2013-07-06T08:32:48-05:00</updated>
   <id>http://blog.hectoregm.com/</id>
   <author>
     <name><![CDATA[Hector E. Gomez Morales]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[iOS Programming from Scratch]]></title>
+    <link href="http://blog.hectoregm.com/blog/2013/07/06/ios-programming-from-scratch/"/>
+    <updated>2013-07-06T08:32:00-05:00</updated>
+    <id>http://blog.hectoregm.com/blog/2013/07/06/ios-programming-from-scratch</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Summer of Learning]]></title>
